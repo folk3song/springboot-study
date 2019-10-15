@@ -1,0 +1,4 @@
+2019-09-19 16:22:26 下午 [Thread: main][ Class:com.springboot.chapter3.config.IOCTest >> Method: com.springboot.chapter3.config.IOCTest.main(IOCTest.java:15) ]
+INFO:1
+2019-09-19 16:22:26 下午 [Thread: main][ Class:com.springboot.chapter3.config.IOCTest >> Method: com.springboot.chapter3.config.IOCTest.main(IOCTest.java:16) ]
+INFO:note_1
